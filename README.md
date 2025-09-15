@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄Hi, I'm Mohd Aman<br>🔭I'm currently working on very secret project<br>🌱I'm interested in Web-Development, UI/UX Designing and Machine Learning <br>🌱I am currently learning Backend.
+😄Hi, I'm Mohd Aman<br>🔭I'm currently working on very secret project<br>🌱I'm interested in Web-Development, UI/UX Designing and Machine Learning <br>🌱I am currently learning Devops.
 
 
 ## 🌐 Socials:
