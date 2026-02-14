@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄Hi, I'm Mohd Aman<br>🔭I'm persuing BTECH(2023-27) in CSE branch<br>🔭I'm currently working on very secret project<br>🌱I'm interested in Web-Development, UI/UX Designing and Machine Learning <br>🌱I am currently learning Devops.
+😄Hi, I'm Mohd Aman<br>🔭I'm persuing BTECH(2023-27) in CSE branch<br>🔭I'm currently working on very secret project<br>🌱I'm interested in Web-Development and  DevOps   <br>🌱I am currently learning Devops.
 
 
 ## 🌐 Socials:
@@ -7,6 +7,12 @@
 
 #  💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
